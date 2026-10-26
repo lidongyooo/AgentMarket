@@ -1,0 +1,6 @@
+node_modules/
+.venv/
+tools/render/
+__pycache__/
+.DS_Store
+~$*.docx

@@ -1,0 +1,14 @@
+{
+  "name": "agentmarket-book-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "《会干活的 AI 怎么卖》书稿的构建脚本：从 Markdown 生成 Word 版",
+  "scripts": {
+    "build": "node build_docx.js"
+  },
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "docx": "^9.14.0"
+  }
+}
